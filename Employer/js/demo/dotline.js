@@ -27,8 +27,8 @@ const data = {
         data: [1600, 1630, 1600, 1580, 1520, 1600, 1670, 1680, 1830, 2000, 1600, 1700]
     }, {
         label: 'Planning&Design',
-        backgroundColor: 'rgba(255, 206, 86, 0.2)',
-        borderColor: 'rgba(255, 206, 86, 1)',
+        backgroundColor: 'rgba(210, 180, 140, 0.2)',
+        borderColor: 'rgba(139, 69, 19, 1)',
         borderWidth: 1,
         data: [1700, 1750, 1820, 1870, 1750, 1720, 1690, 1450, 1430, 1470, 1400, 1350]
     }]
